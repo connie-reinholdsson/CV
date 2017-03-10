@@ -22,9 +22,9 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 
 #### Additional Skills
 
-#### Languages: English (Working proficiency), Swedish (Native), Spanish (Intermediate)
-#### Software: SAP (Basic), Microsoft Office (Intermediate)
-#### Six Sigma Methodology: Six Sigma Methodology: Yellow Belt (Rolls-Royce plc, 2014)
+**Languages:** English (Working proficiency), Swedish (Native), Spanish (Intermediate)
+**Software: SAP (Basic), Microsoft Office (Intermediate)
+**Six Sigma Methodology:** Six Sigma Methodology: Yellow Belt (Rolls-Royce plc, 2014)
 
 ## Education
 
@@ -43,15 +43,10 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - International Business BSc, 2:1
 - Strategy, Project Management, Marketing, Finance, Sociology
 - Specialised in Mathematics, Analytics, Business Modelling & Optimisation
+- 12-month full-time Industrial Placement at Rolls-Royce plc
+- Grade ‘E’ for ‘Significantly Exceeds required performance’
 - Charity Representative for Loughborough Students Union’, climbed from 13th to 3rd in University League Table.
 - Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
-
-#### Loughborough University (Jun ’13 -  Jun ’14)
-
-- Diploma of Professional Studies (DPS)
-- 12-month full-time Industrial Placement
-- Project Management Intern at Rolls-Royce plc
-- Grade ‘E’ for ‘Significantly Exceeds required performance’Club, Running Club and Fundraising.
 
 #### King Edward’s School, Witley (Sep ‘2008 - Jul ’10)
 
@@ -60,8 +55,7 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - Subjects: Mathematics, Economics, English, Biology, Spanish, Philosophy
 - Activities and Societies: Women’s Football Team, Peer Supporter and Volunteer
 
-
-## Experience
+## Relevant Experience
 
 **Samsung Electronics (UK) Ltd** (Aug ’15 - Jan ’16)   
 *Marketing Graduate Scheme*  
@@ -71,7 +65,7 @@ One of eight graduates selected to an 18 month Marketing Graduate Scheme with a 
 *Project Management Intern*  
 Selected to do a placement scheme in Project Management at Rolls-Royce plc. Worked in the Programme Management Office (PMO) in the Marine sector to support, co-ordinate and drive cost reduction initiatives in a truly international environment.
 
-## Other experience
+## Experience
 
 **Loughborough Students’ Union** (Feb ’11 - Feb ’12)   
 *Charity Representative*
