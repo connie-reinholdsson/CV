@@ -23,8 +23,8 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 #### Additional Skills
 
 - **Languages:** English (Working proficiency), Swedish (Native), Spanish (Intermediate)
-- **Software: SAP (Basic), Microsoft Office (Intermediate)
-- **Six Sigma Methodology:** Six Sigma Methodology: Yellow Belt (Rolls-Royce plc, 2014)
+- **Software:** SAP (Basic), Microsoft Office (Intermediate)
+- **Six Sigma Methodology:** Yellow Belt (Rolls-Royce plc, 2014)
 
 ## Education
 
@@ -84,4 +84,4 @@ Fundraiser for Loughborough Students' Union fundraising organisation RAG. Travel
 - **Health & Fitness:** while “Connie”.receive == “Nutritious Food” && “Exercise”, coding, break if hungry, end
 - **Podcasts / Audiobooks:** Has turned the most painful commutes into my favourite time of the day.
 - **Volunteering:** In the summer of 2012 I spent four weeks in a rural village in Cambodia and took part in teaching and community work such as construction and plantation which was an incredible experience.
-- s**Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
+- **Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
