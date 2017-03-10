@@ -20,45 +20,48 @@ During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4
 
 Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree and received 1st class results across all Mathematics modules. But more importantly, I apply my problem-solving skills in real work and life situations. For example, during my internship at Rolls-Royce plc I spotted a number of problems which slowed down our work processes, and came up with solutions. This included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
 
-## Additional Skills
+#### Additional Skills
 
-•	Languages: English (Working profiency), Swedish (Native), Spanish (Intermediate)
-•	Software: SAP (Basic), Microsoft Office (Intermediate)
-•	Six Sigma Methodology: Yellow Belt (Rolls-Royce plc, 2014)
+#### Languages:
+English (Working proficiency), Swedish (Native), Spanish (Intermediate)
+#### Software:  
+SAP (Basic), Microsoft Office (Intermediate)
+#### Six Sigma Methodology:  
+Six Sigma Methodology: Yellow Belt (Rolls-Royce plc, 2014)
 
 ## Education
 
 #### Makers Academy (Feb ’17 - Jun ’17)
 
-•	Open-minded problem-solver
-•	Eager learner and passion for code
-•	Business perspective
-•	OOP, TDD, SOLID, MVC, DDD
-•	Software craftsmanship
-•	Ruby, Rails, Javascript, Node.js, Angular.js
-•	Rspec, Jasmine, Moch
+- Open-minded problem-solver
+- Eager learner and passion for code
+- Business perspective
+- OOP, TDD, SOLID, MVC, DDD
+- Software craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular.js
+- Rspec, Jasmine, Moch
 
 #### Loughborough University (Sep ’11 -  Jul ’15)
 
-•	International Business BSc, 2:1
-•	Strategy, Project Management, Marketing, Finance, Sociology
-•	Specialised in Mathematics, Analytics, Business Modelling & Optimisation
-•	Charity Representative for Loughborough Students Union’, climbed from 13th to 3rd in University League Table.
-•	Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
+- International Business BSc, 2:1
+- Strategy, Project Management, Marketing, Finance, Sociology
+- Specialised in Mathematics, Analytics, Business Modelling & Optimisation
+- Charity Representative for Loughborough Students Union’, climbed from 13th to 3rd in University League Table.
+- Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
 
 #### Loughborough University (Jun ’13 -  Jun ’14)
 
-•	Diploma of Professional Studies (DPS)
-•	12-month full-time Industrial Placement
-•	Project Management Intern at Rolls-Royce plc
-•	Grade ‘E’ for ‘Significantly Exceeds required performance’Club, Running Club and Fundraising.
+- Diploma of Professional Studies (DPS)
+- 12-month full-time Industrial Placement
+- Project Management Intern at Rolls-Royce plc
+- Grade ‘E’ for ‘Significantly Exceeds required performance’Club, Running Club and Fundraising.
 
 #### King Edward’s School, Witley (Sep ‘2008 - Jul ’10)
 
-•	International Baccalaureate (IB)
-•	Grade: 36 (559 UCAS Points)
-•	Subjects: Mathematics, Economics, English, Biology, Spanish, Philosophy
-•	Activities and Societies: Women’s Football Team, Peer Supporter and Volunteer
+- International Baccalaureate (IB)
+- Grade: 36 (559 UCAS Points)
+- Subjects: Mathematics, Economics, English, Biology, Spanish, Philosophy
+- Activities and Societies: Women’s Football Team, Peer Supporter and Volunteer
 
 
 ## Experience
@@ -67,14 +70,14 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 *Marketing Graduate Scheme*  
 One of eight graduates selected to an 18 month Marketing Graduate Scheme with a tailored learning and development programme. The scheme consisted of four 4-5 months marketing rotations including Campaigns (Mobile), Social Media, Sponsorship and Retail (TV/AV and Digital Appliances).
 
-**Rolls-Royce plc** (Jun ’13 - Jun ’14)
+**Rolls-Royce plc** (Jun ’13 - Jun ’14)   
 *Project Management Intern*  
 Selected to do a placement scheme in Project Management at Rolls-Royce plc. Worked in the Programme Management Office (PMO) in the Marine sector to support, co-ordinate and drive cost reduction initiatives in a truly international environment.
 
 ## Other experience
 
-**Loughborough Students’ Union** (Feb ’11 - Feb ’12)
-*Charity Representative*  
+**Loughborough Students’ Union** (Feb ’11 - Feb ’12)   
+*Charity Representative*
 Elected to Charity Representative for my University Hall due to a passionate involvement in fundraising . Made a number of improvements and organised charity events which resulted in my university hall climbing from 13th to 3rd place in the league table of money raised per head.
 
 **Loughborough Students’ Union** (Sep ’11 - Jul ’13)   
@@ -88,7 +91,7 @@ Fundraiser for Loughborough Students' Union fundraising organisation RAG. Travel
 *Membership Consultant*  
 
 ## Hobbies & Interests
-**Health & Fitness:** while “Connie”.receive == “Nutritious Food” && “Exercise”, coding, break if hungry, end
-**Podcasts / Audiobooks:** Has turned the most painful commutes into my favourite time of the day.
-**Volunteering:** In the summer of 2012 I spent four weeks in a rural village in Cambodia and took part in teaching and community work such as construction and plantation which was an incredible experience.
-**Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
+- **Health & Fitness:** while “Connie”.receive == “Nutritious Food” && “Exercise”, coding, break if hungry, end
+- **Podcasts / Audiobooks:** Has turned the most painful commutes into my favourite time of the day.
+- **Volunteering:** In the summer of 2012 I spent four weeks in a rural village in Cambodia and took part in teaching and community work such as construction and plantation which was an incredible experience.
+- **Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
