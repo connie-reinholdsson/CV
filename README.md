@@ -85,3 +85,9 @@ Fundraiser for Loughborough Students' Union fundraising organisation RAG. Travel
 - **Podcasts / Audiobooks:** Has turned the most painful commutes into my favourite time of the day.
 - **Volunteering:** In the summer of 2012 I spent four weeks in a rural village in Cambodia and took part in teaching and community work such as construction and plantation which was an incredible experience.
 - **Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
+
+## Contact Details
+- **e-mail:** connie.reinholdsson@gmail.com
+- **Mobile:** +44 (0) 77 9124 2233
+- **LinkedIn:** https://www.linkedin.com/in/conniereinholdsson/
+- **Codewars:** https://www.codewars.com/users/connie-reinholdsson
