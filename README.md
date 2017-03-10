@@ -68,6 +68,7 @@ Selected to do a placement scheme in Project Management at Rolls-Royce plc. Work
 
 **Loughborough Students’ Union** (Feb ’11 - Feb ’12)   
 *Charity Representative*
+
 Elected to Charity Representative for my University Hall due to a passionate involvement in fundraising . Made a number of improvements and organised charity events which resulted in my university hall climbing from 13th to 3rd place in the league table of money raised per head.
 
 **Loughborough Students’ Union** (Sep ’11 - Jul ’13)   
