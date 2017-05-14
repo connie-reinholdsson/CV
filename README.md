@@ -1,8 +1,8 @@
 ## Connie Reinholdsson
 
-[About](#about) | [Skills](#skills) | [Education](#education) | [Career](#career) | [Other experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Skills](#skills) | [Education](#education) | [Career](#career) || [Interests](#interests) | [Contact](#contact) |
 [LinkedIn](https://www.linkedin.com/in/conniereinholdsson/) |
-[Portfolio](#https://github.com/connie-reinholdsson) |
+[Portfolio](https://github.com/connie-reinholdsson) |
 [Blog](https://medium.com/@connie.reinholdsson_2152) |
 [Twitter](https://twitter.com/conniereinhold1)
 
@@ -17,9 +17,7 @@ Check out my blog, Twitter account and GitHub portfolio to find out more!
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never published an article in my life. But to my surprise, writing about programming was different and it helped my learning through reflecting on every week and ways in which I could improve.
-
-Seven weeks on, after attending an Android Development workshop run by Codebar, I wrote a blogpost about it and Codelog published it and made me a writer. It also got shared on Twitter through influential people in the industry.
+When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never published an article in my life. But to my surprise, writing about programming was different and it helped my learning through reflecting on every week and ways in which I could improve. Seven weeks on, after attending an Android Development workshop run by Codebar, I wrote a blogpost about it and Codelog published it and made me a writer. It also got shared on Twitter through influential people in the industry.
 
 #### Learning Agility
 
