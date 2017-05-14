@@ -7,7 +7,7 @@
 
 ### <a name="hello">About</a>
 
-I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with regular tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment where I can grow as a person and professional.
+I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment where I can grow as a person and professional.
 
 After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving-problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
 
