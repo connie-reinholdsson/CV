@@ -1,16 +1,25 @@
 ## Connie Reinholdsson
 
-Whilst working as a Marketing Graduate at Samsung Electronics Ltd, I developed a passion for digital and became increasingly interested in how our world is changing through digitalisation, social media and information sharing. With that came a desire to increase my technical knowledge and I started learning how to code. Little did I know that I would become so addicted to solving problems, researching solutions and earning badges on Code Academy, that I would decide to turn it into a career.
+[About](#about) | [Skills](#skills) | [Education](#education) | [Career](#career) | [Other experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[LinkedIn](https://www.linkedin.com/in/conniereinholdsson/) |
+[Portfolio](#https://github.com/connie-reinholdsson) |
+[Blog](https://medium.com/@connie.reinholdsson_2152) |
+[Twitter](https://twitter.com/conniereinhold1)
 
-I am an open-minded, motivated and creative self-starter who loves problem-solving, new challenges and isn’t afraid to come up with radical solutions. Above all, I’m an optimistic researcher who believes there’s is an answer to almost everything, and whether tackling a kata, making a new recipe or trying a new yoga tutorial - I don’t commit to anything before I’ve received advice from my two best friends - Google and YouTube.
+### <a name="hello">About</a>
 
-I’m looking for a Full Stack Junior Developer role in an innovative environment where there is scope for me to learn and grow as a Developer, with long-term career prospects. I would love to work in a team where I can add value not only as a developer, but to the business as a whole and pick up new skills and experiences.
+I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with regular tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment where I can grow as a person and professional.
 
-## Skills
+After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving-problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
 
-#### Commercial Context
+Check out my blog, Twitter account and GitHub portfolio to find out more!
 
-Having experience from both the operational and customer side of businesses, I always ask myself why I’m doing something. Approaching coding tasks from a commercial context allows me to take a step back, understand the required programme functionalities and scope and suggest the best solution from a business perspective. For example, when creating the app ‘Student Directory’, I wrote down its purpose, what problem it would solve, put it into business context and improved the user feedback functionalities and flexibility to make it more user-friendly.
+### <a name="skills">Skills</a>
+
+#### Communication
+When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never published an article in my life. But to my surprise, writing about programming was different and it helped my learning through reflecting on every week and ways in which I could improve.
+
+Seven weeks on, after attending an Android Development workshop run by Codebar, I wrote a blogpost about it and Codelog published it and made me a writer. It also got shared on Twitter through influential people in the industry.
 
 #### Learning Agility
 
@@ -20,13 +29,14 @@ During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4
 
 Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree and received 1st class results across all Mathematics modules. But more importantly, I apply my problem-solving skills in real work and life situations. For example, during my internship at Rolls-Royce plc I spotted a number of problems which slowed down our work processes, and came up with solutions. This included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
 
+
 #### Additional Skills
 
 - **Languages:** English (Working proficiency), Swedish (Native), Spanish (Intermediate)
 - **Software:** SAP (Basic), Microsoft Office (Intermediate)
 - **Six Sigma Methodology:** Yellow Belt (Rolls-Royce plc, 2014)
 
-## Education
+### <a name="education">Education</a>
 
 #### Makers Academy (Feb ’17 - Jun ’17)
 
@@ -44,7 +54,7 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - Strategy, Project Management, Marketing, Finance, Sociology
 - Specialised in Mathematics, Analytics, Business Modelling & Optimisation
 - 12-month full-time Industrial Placement at Rolls-Royce plc
-- Charity Representative for Loughborough Students Union’
+- Charity Representative for Loughborough Students' Union
 - Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
 
 #### King Edward’s School, Witley (Sep ‘2008 - Jul ’10)
@@ -54,7 +64,7 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - Subjects: Mathematics, Economics, English, Biology, Spanish, Philosophy
 - Activities and Societies: Women’s Football Team, Peer Supporter and Volunteer
 
-## Experience
+### <a name="Career">Career</a>
 
 **Samsung Electronics (UK) Ltd** (Aug ’15 - Jan ’16)   
 *Marketing Graduate Scheme*  
@@ -64,7 +74,7 @@ One of eight graduates selected to an 18 month Marketing Graduate Scheme with a 
 *Project Management Intern*  
 Selected to do a placement scheme in Project Management at Rolls-Royce plc. Worked in the Programme Management Office (PMO) in the Marine sector to support, co-ordinate and drive cost reduction initiatives in a truly international environment.
 
-## Other Experience
+### <a name="experience">Experience</a>
 
 **Loughborough Students’ Union** (Feb ’11 - Feb ’12)   
 *Charity Representative*  
@@ -80,14 +90,12 @@ Fundraiser for Loughborough Students' Union fundraising organisation RAG. Travel
 **FitnessFirst Ltd** (Sep ’10 - Jan ’11)   
 *Membership Consultant*  
 
-## Hobbies & Interests
-- **Health & Fitness:** while “Connie”.receive == “Nutritious Food” && “Exercise”, coding, break if hungry, end
+### <a name="interests">Interests</a>
+- **Health & Fitness:** while connie.receives == “Nutritious Food” && “Exercise”, coding, break if hungry, end
 - **Podcasts / Audiobooks:** Has turned the most painful commutes into my favourite time of the day.
 - **Volunteering:** In the summer of 2012 I spent four weeks in a rural village in Cambodia and took part in teaching and community work such as construction and plantation which was an incredible experience.
 - **Swedish Fika:** The best Swedish tradition, which involves getting the office together to share some stories over afternoon coffee and something sweet.
 
-## Contact Details
+### <a name="contact">Contact</a>
 - **e-mail:** connie.reinholdsson@gmail.com
 - **Mobile:** +44 (0) 77 9124 2233
-- **LinkedIn:** https://www.linkedin.com/in/conniereinholdsson/
-- **Codewars:** https://www.codewars.com/users/connie-reinholdsson
