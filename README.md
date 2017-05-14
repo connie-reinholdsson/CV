@@ -1,8 +1,7 @@
 ## Connie Reinholdsson
 
-[Skills](#skills) | [Education](#education) | [Career](#career) || [Interests](#interests) | [Contact](#contact) |
+[About](#about) | [Skills](#skills) | [Education](#education) | [Career](#career) | [Interests](#interests) | [Contact](#contact) |
 [LinkedIn](https://www.linkedin.com/in/conniereinholdsson/) |
-[Portfolio](https://github.com/connie-reinholdsson) |
 [Blog](https://medium.com/@connie.reinholdsson_2152) |
 [Twitter](https://twitter.com/conniereinhold1)
 
@@ -12,7 +11,7 @@ I am a highly motivated, creative and curious self-starter who is passionate abo
 
 After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving-problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
 
-Check out my blog, Twitter account and GitHub portfolio to find out more!
+Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Account](https://twitter.com/conniereinhold1) and GitHub portfolio to find out more!
 
 ### <a name="skills">Skills</a>
 
