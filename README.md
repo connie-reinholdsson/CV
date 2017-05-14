@@ -16,15 +16,15 @@ Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Acco
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never published an article in my life. But to my surprise, writing about programming was different and it helped my learning through reflecting on every week and ways in which I could improve. Seven weeks on, after attending an Android Development workshop run by Codebar, I wrote a blogpost about it and Codelog published it and made me a writer. It also got shared on Twitter through influential people in the industry.
+When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never before  published an article, but to my surprise writing about programming was different. It enabled me to learn faster by reflecting on each week and pinpointing ways in which I could improve. Seven weeks into Makers I attend an Android Development workshop run by Codebar. I wrote a blogpost about what the workshop had taught me and Codelog published it. It also got lots of attention on Twitter and was endorsed by the organiser, who themselves is an Android developer.
 
 #### Learning Agility
 
-During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and I had to quickly pick up the relevant knowledge and information to meet my performance objectives and make a name for myself in each division. I set up my own inductions, researched the industry, asked for relevant documents and asked questions. As a result of learning fast, I was asked to organise and deliver a UK wide 4-week experiential activity after only three months of working in the company, which turned out to be an online success.
+During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and I quickly picked up the relevant knowledge and information to meet my performance objectives, making a name for myself in each division. I set up my own introductions, researched the industry and sought out relevant documents in order to increase my knowledge. As a result of my quick learning, in only my third month at the company, I was asked to organise and deliver a UK wide 4-week marketing event. This was presented back to my global headquarters and turned out to be a huge online success.
 
 #### Problem-solver
 
-Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree and received 1st class results across all Mathematics modules. But more importantly, I apply my problem-solving skills in real work and life situations. For example, during my internship at Rolls-Royce plc I spotted a number of problems which slowed down our work processes, and came up with solutions. This included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
+Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree. As well as receiving first class honours, I regularly apply my problem-solving skills in real life and work situations. For example, during my internship at Rolls-Royce plc I identified a number of problems which were hindering our work processes. I came up with a number of measures to eradicate these issues, which included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
 
 
 #### Additional Skills
