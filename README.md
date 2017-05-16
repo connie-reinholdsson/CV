@@ -9,14 +9,14 @@
 
 I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment where I can grow as a person and professional.
 
-After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving-problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
+After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
 
 Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Account](https://twitter.com/conniereinhold1) and GitHub portfolio to find out more!
 
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never before  published an article, but to my surprise writing about programming was different. It enabled me to learn faster by reflecting on each week and pinpointing ways in which I could improve. Seven weeks into Makers I attend an Android Development workshop run by Codebar. I wrote a blogpost about what the workshop had taught me and Codelog published it. It also got lots of attention on Twitter and was endorsed by the organiser, who themselves is an Android developer.
+When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never before  published an article, but to my surprise writing about programming was different. It enabled me to learn faster by reflecting on each week and pinpointing ways in which I could improve. Seven weeks into Makers I attended an Android Development workshop run by Codebar. I wrote a blogpost about what the workshop and Codebar ended up publishing it on their website. The article also got lots of attention on Twitter and was endorsed by the organiser.
 
 #### Learning Agility
 
