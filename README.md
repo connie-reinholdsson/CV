@@ -7,20 +7,20 @@
 
 ### <a name="hello">About</a>
 
-I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment where I can grow as a person and professional.
+I am a highly motivated, creative and curious self-starter who is passionate about tech and believe the best code is written with regular tea breaks, a healthy body and an open mind. I am looking for a Full Stack Developer role in an innovative, sociable and dynamic environment with long-term career prospects.
 
-After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time, until I became so addicted to solving problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
+After graduating with an International Business BSc degree from Loughborough University, I spent 18 months working as a Marketing Graduate for Samsung Electronics (UK) Ltd. Whilst working in digital marketing, I developed a passion for technology and started coding in my free time. Eventually, I became so addicted to solving problems and building websites that I decided to pursue it as a career. I am now fulfilling my dreams at Maker's Academy, where I spend every day diving below the interface and learning about the world of software development.
 
 Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Account](https://twitter.com/conniereinhold1) and GitHub portfolio to find out more!
 
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Maker's Academy, I decided to write a blog about my experience. At first I found it very difficult, having never before  published an article, but to my surprise writing about programming was different. It enabled me to learn faster by reflecting on each week and pinpointing ways in which I could improve. Seven weeks into Makers I attended an Android Development workshop run by Codebar. I wrote a blogpost about what the workshop and Codebar ended up publishing it on their website. The article also got lots of attention on Twitter and was endorsed by the organiser.
+When starting at Maker's Academy, I decided to write a blog. Having never published an article in my life, I was surprised by how much I enjoyed this and how my learning improved through reflecting on my experience. Seven weeks into the course I attended an Android Development workshop run by Codebar and wrote a blogpost about it. I was very pleased when Codebar asked to publish it on [Codelog](https://medium.com/the-codelog/android-i-think-we-will-become-good-friends-ab01b0e90ad5) and make me a writer. The article received positive feedback on Medium and Twitter was endorsed by the organiser.
 
 #### Learning Agility
 
-During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and I quickly picked up the relevant knowledge and information to meet my performance objectives, making a name for myself in each division. I set up my own introductions, researched the industry and sought out relevant documents in order to increase my knowledge. As a result of my quick learning, in only my third month at the company, I was asked to organise and deliver a UK wide 4-week marketing event. This was presented back to my global headquarters and turned out to be a huge online success.
+During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and had to quickly pick up the relevant knowledge to meet my performance objectives and make a name for myself in each division. To do this, I set up my own introductions, researched the industry and sought out relevant documents. As a result of learning fast, I was asked to organise and deliver a UK wide 4-week marketing event after working there for three months. This was presented back to my global headquarters and the event turned out to be an online success.
 
 #### Problem-solver
 
@@ -50,7 +50,6 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - International Business BSc, 2:1
 - Strategy, Project Management, Marketing, Finance, Sociology
 - Specialised in Mathematics, Analytics, Business Modelling & Optimisation
-- 12-month full-time Industrial Placement at Rolls-Royce plc
 - Charity Representative for Loughborough Students' Union
 - Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
 
