@@ -16,7 +16,7 @@ Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Acco
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Maker's Academy, I decided to write a blog. Having never published an article in my life, I was surprised by how much I enjoyed this and how my learning improved through reflecting on my experience. Seven weeks into the course I attended an Android Development workshop run by Codebar and wrote a blogpost about it. I was very pleased when Codebar asked to publish it on [Codelog](https://medium.com/the-codelog/android-i-think-we-will-become-good-friends-ab01b0e90ad5) and make me a writer. The article received positive feedback on Medium and Twitter was endorsed by the organiser.
+When starting at Makers Academy, I decided to write a blog. Having never published an article in my life, I was surprised by how much I enjoyed this and how my learning improved through reflecting on my experience. Seven weeks into the course I attended an Android Development workshop run by Codebar and wrote a blogpost about it. I was very pleased when Codebar asked to publish it on [Codelog](https://medium.com/the-codelog/android-i-think-we-will-become-good-friends-ab01b0e90ad5) and make me a writer. The article received positive feedback on Medium and Twitter was endorsed by the organiser.
 
 #### Learning Agility
 
