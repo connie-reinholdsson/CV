@@ -16,15 +16,15 @@ Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Acco
 ### <a name="skills">Skills</a>
 
 #### Communication
-When starting at Makers Academy, I decided to write a blog. Having never published an article in my life, I was surprised by how much I enjoyed this and how my learning improved through reflecting on my experience. Seven weeks into the course I attended an Android Development workshop run by Codebar and wrote a blogpost about it. I was very pleased when Codebar asked to publish it on [Codelog](https://medium.com/the-codelog/android-i-think-we-will-become-good-friends-ab01b0e90ad5) and make me a writer. The article received positive feedback on Medium and Twitter was endorsed by the organiser.
+When starting at Makers Academy, I decided to write a blog. Having never published an article in my life, I was surprised by how much I enjoyed this and how my learning improved through reflecting on my experience. Seven weeks into the course I attended an Android Development workshop run by Codebar and wrote a blogpost about it. I was very pleased when Codebar asked to publish it on [Codelog](https://medium.com/the-codelog/android-i-think-we-will-become-good-friends-ab01b0e90ad5) and make me a writer. The article received positive feedback on Medium and Twitter, and was endorsed by the organiser.
 
 #### Learning Agility
 
-During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and had to quickly pick up the relevant knowledge to meet my performance objectives and make a name for myself in each division. To do this, I set up my own introductions, researched the industry and sought out relevant documents. As a result of learning fast, I was asked to organise and deliver a UK wide 4-week marketing event after working there for three months. This was presented back to my global headquarters and the event turned out to be an online success.
+During my Marketing Graduate Scheme at Samsung Electronics I moved roles every 4-5 months and had to quickly pick up the relevant knowledge to meet my performance objectives and make a name for myself in each division. To do this, I set up my own introductions, researched the industry and sought out relevant documents. As a result of learning fast, I was asked to organise and deliver a UK-wide 4 weeks marketing event after working there for three months. This was presented back to my global headquarters and the event turned out to be an online success.
 
 #### Problem-solver
 
-Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree. As well as receiving first class honours, I regularly apply my problem-solving skills in real life and work situations. For example, during my internship at Rolls-Royce plc I identified a number of problems which were hindering our work processes. I came up with a number of measures to eradicate these issues, which included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
+Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics, Business Modelling & Optimisation for my degree. As well as receiving first class honours, I regularly apply my problem-solving skills in real life and work situations. For example, during my internship at Rolls-Royce plc I identified a number of problems hindering our work processes. I came up with a several measures to eradicate these issues, which included the production of an e-learning course and the introduction of an IT Back-up System Instruction Booklet.
 
 
 #### Additional Skills
@@ -51,7 +51,7 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 - Strategy, Project Management, Marketing, Finance, Sociology
 - Specialised in Mathematics, Analytics, Business Modelling & Optimisation
 - Charity Representative for Loughborough Students' Union
-- Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising.
+- Activities and Societies: Surf Society, Trampolining Club, Running Club and Fundraising
 
 #### King Edward’s School, Witley (Sep ‘2008 - Jul ’10)
 
@@ -64,7 +64,7 @@ Being a problem-solver at heart, I chose to specialise in Mathematics, Analytics
 
 **Samsung Electronics (UK) Ltd** (Aug ’15 - Jan ’16)   
 *Marketing Graduate Scheme*  
-One of eight graduates selected to an 18 month Marketing Graduate Scheme with a tailored learning and development programme. The scheme consisted of four 4-5 months marketing rotations including Campaigns (Mobile), Social Media, Sponsorship and Retail (TV/AV and Digital Appliances).
+One of eight graduates selected to an 18 months Marketing Graduate Scheme with a tailored learning and development programme. The scheme consisted of four 4-5 months marketing rotations including Campaigns (Mobile), Social Media, Sponsorship and Retail (TV/AV and Digital Appliances).
 
 **Rolls-Royce plc** (Jun ’13 - Jun ’14)   
 *Project Management Intern*  
