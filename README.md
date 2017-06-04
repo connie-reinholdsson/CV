@@ -20,7 +20,7 @@ PROJECTS:
 | [Alexa Sous Chef](https://github.com/exchai93/alexa_sous_chef)      | The ultimate virtual cooking assistant.                | Ruby, Amazon Developer, Amazon Skills Kit (ASK)            | RSpec       |
 | [Tree Spotter](https://github.com/nazwhale/tree-spotter)       | A tree classifier to identify trees in London.                                        | TensorFlow, Python, Ruby on Rails           | Rspec, Capybara                    |
 
-You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
+You can see all my work on my GitHub <a href="https://github.com/connie-reinholdsson">profile</a>.
 
 
 
