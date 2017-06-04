@@ -13,6 +13,20 @@ After graduating with an International Business BSc degree from Loughborough Uni
 
 Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Account](https://twitter.com/conniereinhold1) and GitHub portfolio to find out more!
 
+PROJECTS:
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Alexa Sous Chef](https://github.com/exchai93/alexa_sous_chef)      | The ultimate virtual cooking assistant.                | Ruby, Amazon Developer, Amazon Skills Kit (ASK)            | RSpec       |
+| [Codey Gonzales](https://github.com/sus111/codey-gonzalez)       | A speed type racer for code.                                         | JavaScript, Rails, Postgres           | Rspec, Capybara                    |
+| [Stay Cool](https://github.com/quad-piece/makers-bnb)            | A clone of AirBnb which allows you to view, request and book places to stay.  | Node, Rethink DB, Thinky         | Jasmine, Zombie, Mocha, Chai       |   
+
+You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
+
+
+
+
+
 ### <a name="skills">Skills</a>
 
 #### Communication
