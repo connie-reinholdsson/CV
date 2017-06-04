@@ -1,6 +1,6 @@
 ## Connie Reinholdsson
 
-[About](#about) | [Skills](#skills) | [Education](#education) | [Career](#career) | [Interests](#interests) | [Contact](#contact) |
+[About](#about) | [Projects](#projects) |[Skills](#skills) | [Education](#education) | [Career](#career) | [Interests](#interests) | [Contact](#contact) |
 [LinkedIn](https://www.linkedin.com/in/conniereinholdsson/) |
 [Blog](https://medium.com/@connie.reinholdsson_2152) |
 [Twitter](https://twitter.com/conniereinhold1)
@@ -13,7 +13,7 @@ After graduating with an International Business BSc degree from Loughborough Uni
 
 Check out my [Blog](https://medium.com/@connie.reinholdsson_2152), [Twitter Account](https://twitter.com/conniereinhold1) and GitHub portfolio to find out more!
 
-PROJECTS:
+### <a name="projects">Projects</a>
 
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
